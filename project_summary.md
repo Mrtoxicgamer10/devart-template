@@ -1,12 +1,14 @@
 # Project Title
-Insert the name of your project
+Android Smart Ring - A Step Beyond Possibilities
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Md Akbar Uddin, Mohammed, Mrtoxicgamer10
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The Android Smart Ring is an inspired device from smart-watches but has an unique Design,Specifications and can do beyond possibilities.
+
+I am an College Student who got this project Idea. I just want to give this project a Go and see if I can make it a success. I wanna give people a whole new experience of Technology. It's a unique Idea which has never been done, if previously it's done then that must be not as good as this one. The Android Smart Ring features a curved 720p display, Bluetooth v4.0, NFC, High Clarity Speakers, Microphone, powered by 1GHz processor, 512MB RAM, couple of required sensors, has Transistors (acting as a battery which requires no charging) and this ring runs on Android KitKat (or) Android Wear (in near future).
+
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
@@ -26,8 +28,4 @@ function test() {
 [Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+https://www.youtube.com/watch?v=gZHfdlU85jI
